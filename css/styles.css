@@ -215,7 +215,7 @@ body {
   color: #0bb5f4;
 }
 
-.resume .resume_right .resume_hobby ul li i {
+.resume .resume_right .resume_hobby ul li i{
   font-size: 30px;
 }
 
@@ -231,4 +231,12 @@ body {
 
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
+}
+
+a{
+  text-decoration: none;
+  color: #0bb5f4;
+}
+.lol{
+  color: white;
 }
